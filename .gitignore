@@ -1,6 +1,7 @@
 *.idea
 *.iml
 *.png
+*.db
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
